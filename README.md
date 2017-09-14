@@ -1,1 +1,1 @@
-# jsfulstack-it.github.io
+# jsfullstack-it.github.io
